@@ -1,0 +1,19 @@
+{
+  "name": "R4j-pandit-wa-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Auto Bot developed by Raj Mishra using nozez-whatsmeow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "nozez-whatsmeow": "^1.0.15"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Raj pandit",
+  "license": "ISC"
+}
